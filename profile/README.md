@@ -18,7 +18,7 @@ These are some of the repositories that we are most proud of:
 * [Our Timer Library](https://github.com/NU-Formula-Racing/timers), a very simple, yet powerful, timer library that we use to time our car's systems.
 
 ### 🥳 How to Get Involved 🥳
-We are always looking for new members to join our team! If you are a Northwestern student, follow us on [Instagram](https://www.instagram.com/nufsae/) to stay up to date with our events and meetings.
+Follow us on [Instagram](https://www.instagram.com/nufsae/) to stay up to date with our events and meetings.
 
 ### 📧 Contact Us 📧
 Get in touch with us via our [website](https://northwesternformularacing.com/contact/)! We'd love to hear from you.
